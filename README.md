@@ -155,6 +155,7 @@ pip install transformers torch nltk spacy
 # 📌 Academic Submission
 
 This project was developed as part of a **Generative AI / NLP assignment** to demonstrate the use of transformer-based models for text paraphrasing, along with evaluation using BLEU, ROUGE, and semantic similarity metrics.
+
 ---
 
 
