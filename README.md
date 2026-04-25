@@ -138,48 +138,42 @@ Use the link above to run directly.
 
 ```bash
 pip install transformers torch nltk spacy
-
----
-
-## 3️⃣ Run the Notebook
-
-Execute all cells to generate paraphrased outputs.
-
----
-
-# ⚠️ Limitations
-
-- Output quality depends on pretrained model  
-- May sometimes produce similar sentence structures  
-- Limited fine-tuning on domain-specific data  
-- Performance varies with input complexity  
+```
 
 ---
 
 # 📌 Academic Submission
 
 This project was developed as part of a **Generative AI / NLP assignment** to demonstrate the use of transformer-based models for text paraphrasing, along with evaluation using BLEU, ROUGE, and semantic similarity metrics.
-
 ---
+
 
 # 👤 Author
 
-**Name:** Laya Mary Joy  
-**Program:** Generative AI  
+**Name:** Laya Mary Joy
+
+**Organization:** Entri Elevate
+
 **Date:** April 25, 2026
 
 ---
 
 # ⭐ Acknowledgment
 
-Thanks to instructors and resources from **Hugging Face** and **Google Colab** for enabling this project.
+Thanks to **Entri Elevate** for guidance and support in building this project.
 
 ---
 
-# 🚀 Future Improvements
+# 📌 Future Improvements
 
-- Fine-tune model on custom datasets  
-- Add grammar correction module  
-- Build web app using Streamlit  
-- Improve evaluation metrics  
-- Support multiple languages  
+* Fine-tune model on custom datasets.
+ 
+* Add grammar correction module.
+  
+* Build web app using Streamlit.
+
+* Improve evaluation metrics.
+
+* Support multiple languages.
+
+---
