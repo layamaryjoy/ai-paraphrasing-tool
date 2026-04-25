@@ -138,6 +138,9 @@ Use the link above to run directly.
 
 ```bash
 pip install transformers torch nltk spacy
+
+---
+
 ## 3️⃣ Run the Notebook
 
 Execute all cells to generate paraphrased outputs.
