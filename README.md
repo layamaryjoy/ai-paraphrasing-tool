@@ -141,7 +141,17 @@ pip install transformers torch nltk spacy
 ```
 
 ---
+# ⚠️ Limitations
 
+* Output quality depends on pretrained model.
+  
+* May sometimes produce similar sentence structures.
+
+* Limited fine-tuning on domain-specific data.
+
+* Performance varies with input complexity.
+  
+---
 # 📌 Academic Submission
 
 This project was developed as part of a **Generative AI / NLP assignment** to demonstrate the use of transformer-based models for text paraphrasing, along with evaluation using BLEU, ROUGE, and semantic similarity metrics.
