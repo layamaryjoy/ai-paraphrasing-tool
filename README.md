@@ -122,7 +122,9 @@ ai-paraphrasing-tool/
 
 │  
 ├── Module_End_Assignment6_GenAI.ipynb
+
 ├── Module End Assignmnet6_GenAI.pdf
+
 ├── README.md  
 
 ---
